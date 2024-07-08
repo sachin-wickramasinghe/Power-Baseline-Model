@@ -1,1 +1,3 @@
-# Power-Baseline-Model
+# Power Baseline Model
+
+The baseline refers to the normal average power consumption of a particular electrical load measured over a designated timeframe under specific operating conditions. The power baseline model gives a reference to identify energy saving or loss since it refers to a benchmark for power consumption. It helps to identify abnormalities in the devices and implement troubleshooting steps or energy management techniques to optimize energy usage. This research focuses on developing a power baseline model using deep learning techniques for split-type air conditioners based on their type (Inverter Type/ON-OFF Type). 
